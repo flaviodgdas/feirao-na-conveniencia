@@ -55,6 +55,14 @@ button {
   color: #ff0000;
   text-align: center;
 }
+
+.construct1{
+  background-color: rgb(209, 209, 3);
+  color: rgb(247, 244, 244);
+  text-align: center;
+  font-size: 25px;
+}
+
 .buy-ticket-button {
   font-size: 12px;
 }
@@ -96,6 +104,10 @@ hr {
   text-align: center;
   text-transform: uppercase;
   margin-bottom: 24px;
+}
+.section-title-entrega{
+  text-align: center;
+  
 }
 
 .about-movie-image {
